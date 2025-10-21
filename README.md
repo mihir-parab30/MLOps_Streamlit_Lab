@@ -31,9 +31,9 @@ The sidebar offers feature configuration, while the main panel dynamically displ
 
 The **Prediction section** is the heart of the application. It takes the user’s chosen input features and passes them to a pre-trained **Random Forest Classifier** to determine which of the three wine cultivars (Class 0, 1, or 2) the sample most likely belongs to.
 
-| Input Example | Prediction Result |
-|:---------------:|:----------------:|
-| ![Dashboard](assets/dashboard_home.png) | ![Prediction](assets/prediction_result.png) |
+| Prediction Result |
+|:----------------:|
+| ![Prediction](assets/prediction_result.png) |
 
 ### 🧠 What Happens During Prediction
 1. **Feature Input:**  
