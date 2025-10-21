@@ -204,8 +204,8 @@ print("🌍 Streamlit app is live here:", public_url.public_url)
 import os
 
 # Replace with your actual GitHub username and token
-GITHUB_USER = "mihir-parab30"
-GITHUB_TOKEN = "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"  # paste your token here securely
+GITHUB_USER = "YOUR_USERNAME"
+GITHUB_TOKEN = "YOUR_TOKEN"  # paste your token here securely
 REPO_NAME = "MLOps_Streamlit_Lab"  # your repo name
 
 os.environ['GITHUB_TOKEN'] = GITHUB_TOKEN
