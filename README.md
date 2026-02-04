@@ -1,3 +1,14 @@
+# ⚠️ This repository has been archived
+
+**New Location:** This project is now part of my consolidated [MLOps Portfolio](https://github.com/mihir-parab30/MLOps-Portfolio)
+
+👉 **View this project:** [MLOps-Portfolio/02-streamlit-apps/mlops-streamlit](https://github.com/mihir-parab30/MLOps-Portfolio/tree/main/02-streamlit-apps/mlops-streamlit)
+
+All future updates will be made in the portfolio repository.
+
+---
+
+
 # 🍷 Wine Quality Prediction Dashboard  
 
 An interactive **Streamlit app** that predicts the **cultivar type of wine** based on 13 chemical features such as Alcohol, Ash, Color Intensity, and Proline.  
